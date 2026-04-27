@@ -56,8 +56,8 @@
       <img src="https://github-readme-stats.vercel.app/api?username=cylin0201&theme=dracula&show_icons=true" />
     </td>
     <td>
-      <a href="https://solved.ac/solotache/">
-        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=solotache" />
+      <a href="https://solved.ac/cylin0201/">
+        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=cylin0201" />
       </a>
     </td>
   </tr>
